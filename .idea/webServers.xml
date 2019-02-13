@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="87e0a647-9a8e-4c02-b60a-b4f25ed18f62" name="vagrant.trusty" url="http://localhost">
+        <fileTransfer host="localhost" port="2222" privateKey="$USER_HOME$/trusty64/.vagrant/machines/default/virtualbox/private_key" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
